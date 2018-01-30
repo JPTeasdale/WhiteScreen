@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "description": "A blank white screen that stays on. Great as a soft light. Dim using the phone brightness settings.",
+    "name": "White Screen",
+    "icon": "./assets/white-icon.png",
+    "version": "1.0.0",
+    "slug": "whitescreen",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.teasdalegames.whitescreen",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.teasdalegames.whitescreen",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "splash": {
+      "backgroundColor": "#FFFFFF"
+    }
+  }
+}
