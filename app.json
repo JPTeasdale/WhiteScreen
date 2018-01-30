@@ -7,6 +7,7 @@
     "version": "1.0.0",
     "slug": "whitescreen",
     "privacy": "public",
+    "githubUrl": "https://github.com/JPTeasdale/WhiteScreen",
     "ios": {
       "bundleIdentifier": "com.teasdalegames.whitescreen",
       "buildNumber": "1.0.0"
